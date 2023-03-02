@@ -25,9 +25,8 @@ screenshot
 
 ![This is an image](https://lh3.googleusercontent.com/pw/AMWts8Bg3ZvKCofN2-idswuvQBLg1LBuItmsJhW7fErN1uXdHjj_rr8GNeGTf6X32n_DNUwXAYLyhPpizGF71J1_SfzrY3JWHXmw5Fpy_RiubMRqhCozdm_JAwmhPYSi3inte67yfn03PhFxAY0IMihSP6xW=w927-h476-no?authuser=0)
 
+CPU
+
+![This is an image](https://lh3.googleusercontent.com/pw/AMWts8D6_TB2mAVGje6MRD-9UITQ40X9FSTx3xHUzIzIFFFcpctvC0fWTG80TrzYoU1gIGSIJfqbc0hPdKP1ClFA8GgU2OZanqIMsLzTbDXIfNIWEImkrrHU4_Y5L30FIRZv8Cqyylcu8lyMpcAmcMLwy_0q=w963-h99-no?authuser=0)
 
 
-
-
-[url=https://ibb.co/MfWVhrP][img]https://i.ibb.co/MfWVhrP/Screenshot-2023-03-02-03-59-27.png[/img][/url]
-https://ibb.co/pLQyr41
