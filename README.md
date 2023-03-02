@@ -23,7 +23,7 @@ All this integration works in the background
 
 screenshot
 
-![This is an image](https://s3.amazonaws.com/image.yogile.com/7le043uq6ao/8dh5xrugzd-extra_large.png?1677727114)
+![This is an image](https://lh3.googleusercontent.com/pw/AMWts8Bg3ZvKCofN2-idswuvQBLg1LBuItmsJhW7fErN1uXdHjj_rr8GNeGTf6X32n_DNUwXAYLyhPpizGF71J1_SfzrY3JWHXmw5Fpy_RiubMRqhCozdm_JAwmhPYSi3inte67yfn03PhFxAY0IMihSP6xW=w927-h476-no?authuser=0)
 
 
 
