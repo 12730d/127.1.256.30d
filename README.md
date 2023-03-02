@@ -23,11 +23,11 @@ All this integration works in the background
 
 screenshot
 
-![This is an image](https://ibb.co/pLQyr41)
+![This is an image](https://i.ibb.co/MfWVhrP/Screenshot-2023-03-02-03-59-27.png)
 
 
 
 
 
-https://ibb.co/MfWVhrP
+[url=https://ibb.co/MfWVhrP][img]https://i.ibb.co/MfWVhrP/Screenshot-2023-03-02-03-59-27.png[/img][/url]
 https://ibb.co/pLQyr41
