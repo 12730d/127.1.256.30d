@@ -1,31 +1,5 @@
-# wifi-Doomsday
-Destroy the target with brute force
-
-
-install && how to operate
-
-git clone https://github.com/osamarzq/wifi-Doomsday.git
-
-
-sudo python wifi-doomsday.py
-
-Tools used and some forbidden things attack
-
-#mdk3 
-
-#mdk4 
-
-#aireplay-ng
-
-#wifi-JAMER
-
-All this integration works in the background
-
-screenshot
-
-![This is an image](https://lh3.googleusercontent.com/pw/AMWts8Bg3ZvKCofN2-idswuvQBLg1LBuItmsJhW7fErN1uXdHjj_rr8GNeGTf6X32n_DNUwXAYLyhPpizGF71J1_SfzrY3JWHXmw5Fpy_RiubMRqhCozdm_JAwmhPYSi3inte67yfn03PhFxAY0IMihSP6xW=w927-h476-no?authuser=0)
-
-CPU
+# Important warning: ⚠️
+This repository is private, and the creator of this repository will not be responsible for any damages that occur as a result of the use of any of the scripts, payloads, programs, or anything presented in this repository.
 
 Warning The tool uses all the resources of the device to quickly drop the target ⚠️⚠️⚠️
 
