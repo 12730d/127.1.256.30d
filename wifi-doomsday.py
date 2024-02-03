@@ -40,8 +40,8 @@ print(r"""
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ ╚══════╝127.0.0.30D""")
 print("\n▌▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▌")
 print("\n▌ Mr,DOS> V.2023                                               ▌")
-print("\n▌ Email > 127.30d@proton.me                                    ▌")
-print("\n▌ https://www.instagram.com/osamarzq/                          ▌")
+print("\n▌ Email > ?@proton.me                                    ▌")
+print("\n▌ https://www.instagram.com/?/                          ▌")
 print("\n▌▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▌")
 #  ▌║█║▌│║▌│║▌║▌█║MR,DOS ▌│║▌║▌│║║▌█║▌║█ 
 bar = [
